@@ -34,7 +34,7 @@ object calculate
 {
 	def main( args: Array[String])
 	{
-		var obj=new Calculator()  // object of class Calculator
+		val obj=new Calculator()  // object of class Calculator
 		obj.calculation(22,7)     // function call with help of object
 		obj.show()
 	}
