@@ -1,1 +1,22 @@
+Q. Write a Scala program to implement a basic calculator with add, subtract, multiply, divide features by using Methods, Class, Object and Fields in Scala.
 
+Explanation:-
+        Basically a class named Calculator is being created which contains two methods.
+        Method calculation() for arithmetic operation.
+        Method show() for printing the result of operations that are being performed.
+        Then we have created one object of class Calculator and callled these two methods with the help of object.
+
+There are four files created on compiling this program
+
+        calculate$.class 
+        calculate.class  
+        Calculator.class 
+        fun.scala
+        
+Command to compile and run program
+
+        Compilation:-     scalac fun.scala
+        Run:-             scala calculate
+        
+ Outfile file
+        output.png
